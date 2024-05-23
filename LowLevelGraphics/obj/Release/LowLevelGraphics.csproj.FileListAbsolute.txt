@@ -1,0 +1,10 @@
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\LowLevelGraphics\LowLevelGraphics\bin\Release\LowLevelGraphics.exe.config
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\LowLevelGraphics\LowLevelGraphics\bin\Release\LowLevelGraphics.exe
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\LowLevelGraphics\LowLevelGraphics\bin\Release\LowLevelGraphics.pdb
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\LowLevelGraphics\LowLevelGraphics\obj\Release\LowLevelGraphics.csproj.AssemblyReference.cache
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\LowLevelGraphics\LowLevelGraphics\obj\Release\LowLevelGraphics.Form1.resources
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\LowLevelGraphics\LowLevelGraphics\obj\Release\LowLevelGraphics.Properties.Resources.resources
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\LowLevelGraphics\LowLevelGraphics\obj\Release\LowLevelGraphics.csproj.GenerateResource.cache
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\LowLevelGraphics\LowLevelGraphics\obj\Release\LowLevelGraphics.csproj.CoreCompileInputs.cache
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\LowLevelGraphics\LowLevelGraphics\obj\Release\LowLevelGraphics.exe
+K:\SoftwareData\Microsoft\VisualStudio\source\repos\LowLevelGraphics\LowLevelGraphics\obj\Release\LowLevelGraphics.pdb
